@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bibhabasu's YouTube Videos"
+  navbar:
+    right:
+      - text: About
+        href: https://bibhabasumohapatra.github.io/
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/bibhabasuM1610
+      - icon: github
+        text: Github
+        href: https://github.com/bibhabasumohapatra
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/bibhabasu-mohapatra-3b8205193 
+      - icon: envelope
+        text: Email
+        href: mailto:bibhabasumohapatrabm@gmail.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
